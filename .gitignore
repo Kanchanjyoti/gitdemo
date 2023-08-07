@@ -1,0 +1,4 @@
+error.log
+*.log
+hello/hello/
+second_renamed.txt
